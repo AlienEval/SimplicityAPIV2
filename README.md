@@ -57,10 +57,11 @@ Estado de la API: ?status=!
 
     Retorna un mensaje de éxito y estado 200 OK.
 
+    
+ADMIN
+    administrator3000
+    FullApis2012!!!
 
-
-administrator3000
-FullApis2012!!!
 
 Editar archivo JSON: ?3d={token}&{parámetros}
 
