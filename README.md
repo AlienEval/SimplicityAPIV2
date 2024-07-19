@@ -57,6 +57,11 @@ Estado de la API: ?status=!
 
     Retorna un mensaje de éxito y estado 200 OK.
 
+
+
+administrator3000
+FullApis2012!!!
+
 Editar archivo JSON: ?3d={token}&{parámetros}
 
     Edita los campos específicos (par1, par2, etc.) del archivo JSON correspondiente al {token} en la carpeta /2fa.
